@@ -1,21 +1,22 @@
 
-streamlit>=1.28.0
+streamlit
 
-pdfminer.six>=20221105
-pdf2image>=3.1.0
-
-
-openpyxl>=3.1.0
+pdfminer.six
+pdf2image>
 
 
-pandas>=1.5.0
+openpyxl
 
 
-Pillow>=9.0.0
-
-PyMuPDF>=1.23.0
+pandas
 
 
-opencv-python>=4.8.0
-numpy>=1.24.0
+Pillow
+
+PyMuPDF
+
+
+opencv-python
+numpy
+
 
